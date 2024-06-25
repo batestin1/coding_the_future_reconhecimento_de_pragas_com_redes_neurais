@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://img.shields.io/static/v1?label=Teachable%Machine%20POR&message=MAYCON%20BATESTIN&color=7159c1&style=flat-square&logo=ghost"/>
+<img src="https://img.shields.io/static/v1?label=Teachable%20Machine%20POR&message=MAYCON%20BATESTIN&color=7159c1&style=flat-square&logo=ghost"/>
 
 <h3> <p align="center">Teachnable Machine</p> </h3>
 <h3> <p align="center"> ================= </p> </h3>

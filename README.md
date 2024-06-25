@@ -4,7 +4,18 @@
 <h3> <p align="center">CODE THE FUTURE - Reconhecimento de Doenças em Folhas de Tomate </p> </h3>
 <h3> <p align="center"> ================= </p> </h3>
 
-# Descritivo 
+
+# Descritivo
+
+#### Neste repositório você vai encontrar 4 pastas.
+
+1. Dataset: Diretorio que contém os arquivos para teste e treino das folhas de tomate.
+2. Material: Diretório onde encontram-se o arquivo de apresentação da aula.
+3. Notebook: Diretório onde irá encontrar notebook usado no google colab.
+4. Modelos: Diretório onde irá encontrar arquivos do modelo exportado da plataforma Teachnable Machine (contém também a instrução de como usar)
+
+---
+# Objetivos 
 
 ---
 1. O objetivo deste notebook é Redes Neurais Convolucionais.
