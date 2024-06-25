@@ -12,9 +12,9 @@
 <p> Teachnable Machine é uma plataforma Low Code que permite teinar um computador para reconhecer suas próprias imagens, sons e poses.
 Uma maneira rápida e fácil de criar modelos de aprendizado de máquina para seus sites, aplicativos e muito mais, sem necessidade de conhecimento ou codificação. </p>
 
-1. Neste repositório você vai encontrar dois arquivos `converted_savedmodel.zip` que é o nosso modelo treinado 
+1. Neste repositório você vai encontrar um diretório chamado `converted_keras` que contem o nosso modelo treinado 
 2. Para usar o nosso projeto, baixe o arquivo `.tm` deste diretório [PROJETO](https://drive.google.com/file/d/1XOLU1J9xffvbuiKoYDefrq3T4lTAmESB/view?usp=sharing) acesse o link [LINK](https://teachablemachine.withgoogle.com/train) e importe o arquivo com a extensao `.tm`
-3. Para usar o modelo `converted_savedmodel.zip` abra qualquer IDE e realize o código abaixo:
+3. Para usar o modelo realize o código abaixo:
 
 ```
 

@@ -1,0 +1,10 @@
+0 acaros_de_duas_manchas
+1 enrolamento_de_folha
+2 folhas_saudaveis
+3 mancha_alvo
+4 mancha_bacteriana
+5 mancha_septoria
+6 pinta_preta
+7 requeima
+8 virus_folha_amarela
+9 virus_mosaico_do_tomate_Y
